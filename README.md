@@ -1,6 +1,6 @@
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/) -->  
 
-### Hi there 👋, Janis Melnikovics
+### Hi there 👋, I'm Janis from Latvia,
 #### I'm in a retraining as an IT specialist for application development
 ![I'm in a retraining as an IT specialist for application development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

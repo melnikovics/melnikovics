@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Janis,
+I'm Janis from Latvia... ,
 
 <!--
 **melnikovics/melnikovics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

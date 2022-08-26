@@ -1,5 +1,5 @@
-<-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
-
+<!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/) -->  
+# Komment
 ### Hi there 👋, Janis Melnikovics
 #### I'm in a retraining as an IT specialist for application development
 ![I'm in a retraining as an IT specialist for application development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)

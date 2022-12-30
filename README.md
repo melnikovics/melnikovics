@@ -1,3 +1,4 @@
+<!--
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/) -->  
 
 ### Hi there 👋, my name is Janis and I'm from Germany,
@@ -65,4 +66,5 @@ REACT / JS /
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=melnikovics)  
 
-![Profile views](https://gpvc.arturio.dev/melnikovics)  
+![Profile views](https://gpvc.arturio.dev/melnikovics)
+-->

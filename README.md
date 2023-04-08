@@ -11,6 +11,7 @@
 - 🎯 Mein Ziel ist es, meine Kenntnisse und Fähigkeiten in der Web-Entwicklung und IT-Sicherheit kontinuierlich zu verbessern, während ich an aufregenden Projekten arbeite.
 - 📈 Ich freue mich darauf, meine GitHub-Repositories zu erweitern und neue Projekte hinzuzufügen, während ich meine Fähigkeiten weiterentwickle.
 
+<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/melnikovics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/janismelnikovics/)
 
@@ -25,6 +26,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+<br />
 
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=melnikovics)  

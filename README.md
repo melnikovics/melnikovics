@@ -1,15 +1,15 @@
-
-<!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/) -->  
-<!--
-### Hi there 👋, my name is Janis and I'm from Germany,
-#### I'm currently in the process of retraining as an IT specialist with a focus on application development and IT security. I'm passionate about using technology to create innovative and secure solutions, and I'm excited to continue learning and growing in this field. I look forward to sharing my projects and collaborating with others on GitHub.
+### Hallo, ich bin Janis 👋,
+#### Ich absolviere derzeit eine Umschulung zum Fachinformatiker mit Schwerpunkt Anwendungsentwicklung und strebe in Zukunft eine Spezialisierung im Bereich IT-Sicherheit an. Ich bin leidenschaftlich daran interessiert, Technologie zu nutzen, um innovative Lösungen zu schaffen und freue mich darauf, in diesem Bereich weiter zu lernen und zu wachsen. Auf GitHub möchte ich meine Projekte teilen und mit anderen zusammenarbeiten..
 ![I'm in a retraining as an IT specialist for application development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Ich habe dieses Projekt aus Spaß erstellt. Damit kannst du schöne und einfache GitHub-Readme-Dateien erstellen, die du einfach kopieren und in deinem Profil verwenden kannst. Schau es dir gerne an!
 
-Skills: Java / HTML / CSS
+Meine Skills
+- HTML
+- CSS
+- Java
 
--->
+
 
 <!-- 
 Pagaidam vel mäcos
@@ -18,14 +18,19 @@ REACT / JS /
 
 -->
 
-<!--
-- 🔭 I’m currently working on this page. 
-- 🌱 I'm currently learning Java and Frontend technologies.
+
+- 🔭 Ich arbeite derzeit an dieser Seite.
+- 🌱 Ich lerne derzeit Java und Frontend-Technologien, um meine Kenntnisse in der Web-Entwicklung zu erweitern.
+- 🚀 Ich plane bald, eine Portfolio-Website zu erstellen, um meine Fähigkeiten in der Web-Entwicklung zu präsentieren und zu verbessern.
+- 🌟 Ich bin begeistert von der Möglichkeit, mit anderen Entwicklern auf GitHub zusammenzuarbeiten und mein Wissen zu teilen.
+- 💻 Neben Java und Frontend-Technologien interessiere ich mich auch für Backend-Entwicklung und Datenbanken.
+- 🎯 Mein Ziel ist es, meine Kenntnisse und Fähigkeiten in der Web-Entwicklung und IT-Sicherheit kontinuierlich zu verbessern, während ich an aufregenden Projekten arbeite.
+- 📈 Ich freue mich darauf, meine GitHub-Repositories zu erweitern und neue Projekte hinzuzufügen, während ich meine Fähigkeiten weiterentwickle.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/melnikovics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/janismelnikovics/)
 
--->
+
 
 <!--
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>

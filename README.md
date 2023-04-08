@@ -26,9 +26,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=melnikovics)  
-
+-->
 ![GitHub metrics](https://metrics.lecoq.io/melnikovics)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=melnikovics)  

@@ -2,14 +2,6 @@
 #### Ich absolviere derzeit eine Umschulung zum Fachinformatiker mit Schwerpunkt Anwendungsentwicklung und strebe in Zukunft eine Spezialisierung im Bereich IT-Sicherheit an. Ich bin leidenschaftlich darin interessiert, Technologie zu nutzen, um innovative Lösungen zu schaffen und freue mich darauf, in diesem Bereich weiter zu lernen und zu wachsen. Auf GitHub möchte ich meine Projekte teilen und mit anderen zusammenarbeiten..
 
 
-
-Meine Skills
-- HTML
-- CSS
-- Java
-
-
-
 <!-- 
 Pagaidam vel mäcos
 REACT / JS /

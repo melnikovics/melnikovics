@@ -31,10 +31,10 @@
 
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=melnikovics)  
--->
+
 ![GitHub metrics](https://metrics.lecoq.io/melnikovics)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=melnikovics)  
 
 ![Profile views](https://gpvc.arturio.dev/melnikovics)
-
+-->

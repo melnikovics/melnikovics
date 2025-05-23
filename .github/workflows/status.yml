@@ -25,7 +25,9 @@ jobs:
       - name: Collect Metrics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Already available
-        run: python scripts/collect_metrics.py
+        run: |
+          python scripts/collect_metrics.py
+          python scripts/update_quote.py
 
       - name: Commit and Push JSON Data
         run: |

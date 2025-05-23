@@ -1,0 +1,41 @@
+name: Update Live Dashboard
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  generate-status-json:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to commit and push changes
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9' # Specify Python version
+
+      - name: Install Python Dependencies
+        run: pip install requests
+
+      - name: Collect Metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Already available
+        run: python scripts/collect_metrics.py
+
+      - name: Commit and Push JSON Data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Check if there are changes in the data directory
+          if ! git diff --quiet data/; then
+            git add data/*.json
+            git commit -m "chore: update live dashboard data" -m "Automated data refresh via GitHub Action."
+            git push
+          else
+            echo "No changes to commit in data directory."
+          fi

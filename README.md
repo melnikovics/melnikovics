@@ -1,40 +1,65 @@
-### Hallo, ich bin Janis 👋,
-#### Ich absolviere derzeit eine Umschulung zum Fachinformatiker mit Schwerpunkt Anwendungsentwicklung und strebe in Zukunft eine Spezialisierung im Bereich IT-Sicherheit an. Ich bin leidenschaftlich darin interessiert, Technologie zu nutzen, um innovative Lösungen zu schaffen und freue mich darauf, in diesem Bereich weiter zu lernen und zu wachsen. Auf GitHub möchte ich meine Projekte teilen und mit anderen zusammenarbeiten..
+<p align="center">
+  <img src="assets/control_room_glitch.gif" width="700" alt="Janis Melnikovics – Automate | Innovate">
+</p>
 
+<p align="center"><strong>Automate • Innovate • Self-Host</strong></p>
 
+> **janis@control-room:** _“Automation first, bureaucracy never.”_
 
-- 🔭 Ich arbeite derzeit an dieser Seite.
-- 🌱 Ich lerne derzeit Java und Frontend-Technologien, um meine Kenntnisse in der Web-Entwicklung zu erweitern.
-- 🚀 Ich plane bald, eine Portfolio-Website zu erstellen, um meine Fähigkeiten in der Web-Entwicklung zu präsentieren und zu verbessern.
-- 🌟 Ich bin begeistert von der Möglichkeit, mit anderen Entwicklern auf GitHub zusammenzuarbeiten und mein Wissen zu teilen.
-- 💻 Neben Java und Frontend-Technologien interessiere ich mich auch für Backend-Entwicklung und Datenbanken.
-- 🎯 Mein Ziel ist es, meine Kenntnisse und Fähigkeiten in der Web-Entwicklung und IT-Sicherheit kontinuierlich zu verbessern, während ich an aufregenden Projekten arbeite.
-- 📈 Ich freue mich darauf, meine GitHub-Repositories zu erweitern und neue Projekte hinzuzufügen, während ich meine Fähigkeiten weiterentwickle.
+| Live Metric       | Status                                                                                                                                                                 |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ⭐ Stars          | ![Stars](https://img.shields.io/github/stars/melnikovics/melnikovics?label=⭐%20Stars&logo=github&color=ffd700&logoColor=white&style=flat-square)                         |
+| 🐛 Issues         | ![Issues](https://img.shields.io/github/issues/melnikovics/melnikovics?label=🐛%20Issues&logo=github&color=ff8000&logoColor=white&style=flat-square)                       |
+| 📝 Commits heute  | ![Commits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/melnikovics/melnikovics/main/data/commits.json&label=📝%20Commits&logo=github&logoColor=white&style=flat-square) |
+| ⚡ Quote          | ![Quote](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/melnikovics/melnikovics/main/data/quote.json&style=flat-square)                             |
 
-<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/melnikovics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/janismelnikovics/)
+<details>
+  <summary>👋 Kurzprofil</summary>
 
+- **Rolle:** IT-Consultant · Power Platform Dev
+- **Fokus:** Prozess-Automatisierung, Governance, Self-Hosted KI
+- **Ziel:** Smarte Lösungen → finanzielle Unabhängigkeit
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melnikovics)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>🚀 Aktuelle Projekte (klicke zum Erweitern)</summary>
 
+  <details style="margin-left: 20px;">
+    <summary>🤖 <strong>Genehmigungs-Bot</strong> - Power Platform</summary>
+    <p align="center">
+      <img src="assets/project1_thumb.png" width="300" alt="Genehmigungs-Bot Thumbnail"><br>
+      <sub>Adaptive-Card-Workflow für Urlaubs- & Kostenfreigaben (Power Apps + Power Automate)</sub>
+    </p>
+    <p align="center"><a href="#">🔗 Zum (Platzhalter) Repo/Artikel</a></p>
+  </details>
 
+  <details style="margin-left: 20px; margin-top: 10px;">
+    <summary>🛠️ <strong>Synology Toolstack</strong> - Docker & Self-Hosting</summary>
+    <p align="center">
+      <img src="assets/project2_thumb.png" width="300" alt="Synology Toolstack Thumbnail"><br>
+      <sub>Docker-Compose-Sammlung (Baserow, Linkwarden, Flowise usw.) für Self-Hosted Productivity</sub>
+    </p>
+    <p align="center"><a href="#">🔗 Zum (Platzhalter) Repo/Artikel</a></p>
+  </details>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+  <details style="margin-left: 20px; margin-top: 10px;">
+    <summary>🛡️ <strong>Purview Compliance Lab</strong> - M365 Security</summary>
+    <p align="center">
+      <img src="assets/project3_thumb.png" width="300" alt="Purview Compliance Lab Thumbnail"><br>
+      <sub>E5-Sandbox zum Testen von Datenklassifizierung, Sensitivity Labels & Retention-Policies</sub>
+    </p>
+    <p align="center"><a href="#">🔗 Zum (Platzhalter) Repo/Artikel</a></p>
+  </details>
+</details>
 
-<br />
-
-<!--
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=melnikovics)  
-
-![GitHub metrics](https://metrics.lecoq.io/melnikovics)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=melnikovics)  
-
-![Profile views](https://gpvc.arturio.dev/melnikovics)
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/janismelnikovics">LinkedIn</a> • <a href="https://github.com/melnikovics">GitHub</a>
+</p>

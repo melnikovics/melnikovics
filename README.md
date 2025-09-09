@@ -3,84 +3,160 @@
 </p>
 
 <p align="center">
-  <strong>IT-Consultant specializing in Automation, Governance & Self-Hosting.</strong><br>
-  <em>“Automation first, bureaucracy never.”</em>
+  <strong>Power Platform Builder & Automation Engineer · Self‑Hosting Builder</strong><br>
+  <em>Automate. Ship. Self‑host. · Automatisieren. Ausliefern. Selbst hosten.</em>
 </p>
 
-<!-- Shields -->
+<!-- Stable shields -->
 <p align="center">
-  <a href="https://github.com/melnikovics/melnikovics/stargazers"><img src="https://img.shields.io/github/stars/melnikovics/melnikovics?label=⭐%20Stars&logo=github&color=ffd700&logoColor=white&style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/melnikovics/melnikovics/issues"><img src="https://img.shields.io/github/issues/melnikovics/melnikovics?label=🐛%20Issues&logo=github&color=ff8000&logoColor=white&style=flat-square" alt="Issues"></a>
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/melnikovics/melnikovics/main/data/commits.json&label=📝%20Commits&logo=github&logoColor=white&style=flat-square" alt="Commits Today">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/melnikovics/melnikovics/main/data/quote.json&style=flat-square" alt="Quote">
+  <a href="https://github.com/melnikovics"><img src="https://img.shields.io/github/followers/melnikovics?style=flat-square&label=Followers" alt="Followers"></a>
+  <img src="https://img.shields.io/badge/Focus-Power%20Platform%20%7C%20PowerShell%20%7C%20Docker%20%7C%20AI-6A5ACD?style=flat-square" alt="Focus">
 </p>
 
-<!-- Snake Animation -->
+<!-- Fun badges (text-only, always work on GitHub) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://img.shields.io/badge/Very%20nice!-FFCC00?style=flat-square" alt="Very nice">
+  <img src="https://img.shields.io/badge/Great%20success!-4CAF50?style=flat-square" alt="Great success">
+  <img src="https://img.shields.io/badge/High%20five!-2196F3?style=flat-square" alt="High five">
 </p>
 
 ---
 
-### 👋 About Me
+### 👋 About Me · Über mich
 
-- 👨‍💻 **IT-Consultant** focusing on the Microsoft Power Platform & M365 Governance.
-- 🚀 **Automation Enthusiast** building smart solutions to achieve financial independence.
-- 🐳 **Self-Hosting Advocate** running a private Docker-based toolstack on a Synology NAS.
-- 🧭 **My Standards:** All my public work follows the guidelines in my [repo-guidelines](https://github.com/melnikovics/repo-guidelines) repository.
+- ⚡ <b>EN:</b> I build real‑world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b>Docker</b>, often self‑hosted on Synology.
+- ⚡ <b>DE:</b> Ich baue praxistaugliche Automationen mit <b>Power Platform</b>, <b>PowerShell</b> & <b>Docker</b>, meist <b>self‑hosted</b> auf Synology.
+- 🤖 <b>AI:</b> Daily driver with <b>GPT / Gemini / Claude / Llama</b> for agents, data flows and DevOps helpers.
+- 🧪 <b>VibeCoding:</b> Fast prototypes in <b>React / Flutter / Next.js</b> when it accelerates delivery (playground, not my core stack).
 
-### 🛠️ My Tech Stack
+<!-- Optional Borat GIFs (uncomment after you add the files locally to /assets/fun)
+<p align="center">
+  <img src="assets/fun/borat_very_nice.gif" width="320" alt="Borat – Very nice">
+  <img src="assets/fun/borat_great_success.gif" width="320" alt="Borat – Great success">
+</p>
+-->
+
+---
+
+### 🛠️ Stack I Actually Use · Mein echter Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20Platform-742774?logo=powerapps&logoColor=white&style=for-the-badge" alt="Power Platform"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white&style=for-the-badge" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/PowerShell-2E64FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Microsoft%20365-233C7B?logo=microsoft365&logoColor=white&style=for-the-badge" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/Synology%20NAS-000000?logo=synology&logoColor=white&style=for-the-badge" alt="Synology NAS"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white&style=for-the-badge" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Llama-333333?logo=meta&logoColor=white&style=for-the-badge" alt="Llama"/>
 </p>
 
----
-
-### 🚀 My Current Projects
-
-<details>
-  <summary>🤖 <strong>Approval Bot</strong> - Power Platform</summary>
-  <br>
-  <p align="center">
-    <img src="assets/project1_thumb.png" width="300" alt="Approval Bot Thumbnail"><br>
-    <sub>An Adaptive Card-based workflow for vacation and expense approvals in Microsoft Teams.</sub><br>
-    <em>(Repository coming soon)</em>
-  </p>
-</details>
-
-<details>
-  <summary>🛠️ <strong>Synology Toolstack</strong> - Docker & Self-Hosting</summary>
-  <br>
-  <p align="center">
-    <img src="assets/project2_thumb.png" width="300" alt="Synology Toolstack Thumbnail"><br>
-    <sub>My personal collection of Docker Compose files for self-hosted productivity apps (e.g., Baserow, Linkwarden, Flowise).</sub><br>
-    <em>(Repository coming soon)</em>
-  </p>
-</details>
-
-<details>
-  <summary>🛡️ <strong>Purview Compliance Lab</strong> - M365 Security</summary>
-  <br>
-  <p align="center">
-    <img src="assets/project3_thumb.png" width="300" alt="Purview Compliance Lab Thumbnail"><br>
-    <sub>An M365 E5 sandbox for testing data classification, sensitivity labels, and retention policies.</sub><br>
-    <em>(Repository coming soon)</em>
-  </p>
-</details>
+<p align="center"><sub><i>VibeCoding playgrounds: React / Flutter / Next.js (as needed, for rapid UI proof‑of‑concepts).</i></sub></p>
 
 ---
 
-### 📫 Get In Touch
+### 🚀 Projects in Progress · Laufende Projekte
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🚀 Tenant‑Admin Dashboard (TAD)</h4>
+      <b>PowerShell + WPF</b> desktop app for live tenant metrics via <b>Microsoft Graph</b>.<br/>
+      <sub>Interactive tabs, CSV export, secure app‑reg auth.</sub><br/>
+      <sub>“Great success!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PowerShell-2E64FE?logo=powershell&logoColor=white" alt="PS"/>
+      <img src="https://img.shields.io/badge/WPF-5C2D91" alt="WPF"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?logo=microsoft&logoColor=white" alt="Graph"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ PowerShell Skripthub</h4>
+      .NET 8 + WPF cockpit to manage & run curated <b>PowerShell</b> script sets from one place.<br/>
+      <sub>MVVM, SQLite, SMA integration.</sub><br/>
+      <sub>“High five!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/PowerShell-2E64FE?logo=powershell&logoColor=white" alt="PS"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 DockerMaster NX (Gemini Gem)</h4>
+      Custom AI agent that optimizes Docker stacks for Synology DSM; knowledge‑driven workflows.<br/>
+      <sub>Config + knowledge + troubleshooting hub.</sub><br/>
+      <sub>“King of the castle!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/Synology-000000?logo=synology&logoColor=white" alt="Synology"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>💰 WG‑Finance‑App Pro</h4>
+      Full‑stack <b>React/Node</b> app for shared finances: expenses, shopping lists, PDFs, charts.<br/>
+      <sub>JWT security, Material UI, SQLite.</sub><br/>
+      <sub>“Very nice!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚛️ Modern React Starter</h4>
+      React 18 + Vite + Tailwind + Redux Toolkit + Framer Motion – fast UI/UX sandbox.<br/>
+      <sub>Reusable foundation for future SaaS UIs.</sub><br/>
+      <sub>“Wa wa wee wa!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 Next.js Portfolio</h4>
+      Personal site with Next.js 15, React 19, TS & Tailwind; fast & modern.<br/>
+      <sub>Server Components & Actions.</sub><br/>
+      <sub>“Great success!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📱 Flutter VibeCoding App</h4>
+      Cross‑platform mobile experiments with theming & routing; small AI utilities.<br/>
+      <sub>Learning project, quick prototypes.</sub><br/>
+      <sub>“Is nice!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧱 Tenant Scripts & Admin Ops</h4>
+      Reusable PowerShell modules & Graph helpers for Microsoft 365 admin tasks.<br/>
+      <sub>Packaging + CI, coming public.</sub><br/>
+      <sub>“Respect!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PowerShell-2E64FE?logo=powershell&logoColor=white" alt="PS"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?logo=microsoft&logoColor=white" alt="Graph"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧪 Misc VibeCoding</h4>
+      Small agents, scripts & experiments across AI APIs, dashboards & tooling.<br/>
+      <sub>Playground, quick wins only.</sub><br/>
+      <sub>“Very technology!”</sub><br/><br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white" alt="Anthropic"/>
+      <img src="https://img.shields.io/badge/Llama-333333?logo=meta&logoColor=white" alt="Llama"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Get In Touch · Kontakt
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janismelnikovics"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/janismelnikovics">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
+<!-- Notes:
+- GIFs from external CDNs (Giphy/Tenor) are sometimes blocked on GitHub. 
+  Host GIFs inside this repo under /assets/fun and uncomment the GIF block above.
+- The project grid uses a <table> to ensure consistent 3-column layout in GitHub's renderer.
+-->

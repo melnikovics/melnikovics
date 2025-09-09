@@ -91,20 +91,19 @@ def make_premium_header(filename):
         d.text((W//2 - tw//2, H//2 - th//2 - 10), 
               text, fill=TEXT_COLOR, font=f_big)
         
-        # Subtitle with gradient effect
+        # Subtitle
         subtitle = "Power Platform Builder & Automation Engineer"
         bbox = d.textbbox((0, 0), subtitle, font=f_small)
         sw, sh = bbox[2] - bbox[0], bbox[3] - bbox[1]
         
-        # Animated gradient effect on subtitle
-        gradient_pos = (t / FR) * sw
+        # Draw subtitle
         d.text((W//2 - sw//2, H//2 + 15), 
               subtitle, fill=ACCENT_COLOR, font=f_small)
         
         # Draw subtle underline with animation
         underline_width = int((t / FR) * sw)
-        d.line([(W//2 - sw//2, H//2 + 25), 
-               (W//2 - sw//2 + underline_width, H//2 + 25)], 
+        d.line([(W//2 - sw//2, H//2 + 35), 
+               (W//2 - sw//2 + underline_width, H//2 + 35)], 
               fill=PRIMARY_COLOR, width=2)
 
         frames.append(np.array(im))
@@ -112,5 +111,5 @@ def make_premium_header(filename):
     # Smooth premium animation
     imageio.mimsave(os.path.join(OUT_DIR, filename), frames, duration=0.15, loop=0)
 
-make_premium_header("premium_header.gif")
+make_premium_header("premium_header_fixed.gif")
 print("Premium header GIF created in", OUT_DIR)

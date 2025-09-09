@@ -13,6 +13,7 @@
 </p>
 
 <!-- FUN STRIP (local, reliable) -->
+<!-- TODO: Replace with actual Borat GIFs -->
 <p align="center">
   <img src="assets/fun/borat_very_nice.gif" width="260" alt="Very nice!">
   <img src="assets/fun/borat_great_success.gif" width="260" alt="Great success!">
@@ -59,8 +60,6 @@
       <img src="https://img.shields.io/badge/PowerShell-2E64FE?logo=powershell&logoColor=white" alt="PS"/>
       <img src="https://img.shields.io/badge/WPF-5C2D91" alt="WPF"/>
       <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?logo=microsoft&logoColor=white" alt="Graph"/>
-      <p><img src="assets/fun/borat_very_nice.gif" width="180" alt="Very nice!"></p>
-      <sub>“Great success!”</sub>
     </td>
     <td width="33%" valign="top">
       <h4>⚡ PowerShell Skripthub</h4>
@@ -69,8 +68,6 @@
       <img src="https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white" alt=".NET"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/PowerShell-2E64FE?logo=powershell&logoColor=white" alt="PS"/>
-      <p><img src="assets/fun/borat_high_five.gif" width="180" alt="High five!"></p>
-      <sub>“High five!”</sub>
     </td>
     <td width="33%" valign="top">
       <h4>🤖 DockerMaster NX (Gemini Gem)</h4>
@@ -79,8 +76,6 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white" alt="Gemini"/>
       <img src="https://img.shields.io/badge/Synology-000000?logo=synology&logoColor=white" alt="Synology"/>
-      <p><img src="assets/fun/borat_king_castle.gif" width="180" alt="King of the castle!"></p>
-      <sub>“King of the castle!”</sub>
     </td>
   </tr>
   <tr>
@@ -145,7 +140,7 @@
 </p>
 
 <!-- TODO:
-If you want real Borat/Ali-G scenes later:
-- Replace any assets/fun/*.gif with your licensed GIFs (same filenames) OR
-- Switch to direct media.giphy.com links in the <img src="..."> tags (be aware some hosts block hotlinking).
+If you want real Borat footage later:
+- Replace any assets/fun/*.gif with your licensed GIFs (same filenames)
+- Make sure to use short, loopable clips that are appropriate for a professional profile
 -->

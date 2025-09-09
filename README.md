@@ -109,7 +109,7 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 📫 Get In Touch · Kontakt
+### 📫 Get In Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janismelnikovics">
@@ -119,13 +119,13 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 🎬 Very Nice! · Sehr Schön!
+### 🎬 Very Nice!
 
 <p align="center">
-  <img src="assets/borat_ascii.gif" width="400" alt="Borat Style ASCII Art">
+  <img src="assets/proper_borat.gif" width="300" alt="Borat Style Animation">
 </p>
 
 <p align="center">
   <sub><i>"Great success! You have been very nice to read all this. I promise this README is not fake news!"</i></sub><br><br>
-  <sub><i>Disclaimer: No actual Kazakhstani journalists were harmed in the making of this profile. Very nice code indeed!</i></sub>
+  <sub><i>You've reached the end! Hope you enjoyed it. No actual Kazakhstani journalists were harmed in the making of this profile.</i></sub>
 </p>

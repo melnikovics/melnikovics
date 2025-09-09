@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/stunning_header.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
+  <img src="assets/clean_header.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
 </p>
 
 <p align="center">
@@ -23,12 +23,19 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 ### 🛠️ Technologies I Work With · Technologien mit denen ich arbeite
 
 <p align="center">
+  <!-- First row -->
   <img src="https://img.shields.io/badge/Power%20Platform-742774?logo=powerapps&logoColor=white&style=for-the-badge" alt="Power Platform"/>
   <img src="https://img.shields.io/badge/PowerShell-2E64FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
+</p>
+<p align="center">
+  <!-- Second row -->
   <img src="https://img.shields.io/badge/Synology%20NAS-000000?logo=synology&logoColor=white&style=for-the-badge" alt="Synology NAS"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white&style=for-the-badge" alt="Anthropic"/>
+</p>
+<p align="center">
+  <!-- Third row -->
   <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Gemini"/>
   <img src="https://img.shields.io/badge/Llama-333333?logo=meta&logoColor=white&style=for-the-badge" alt="Llama"/>
 </p>
@@ -39,56 +46,56 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ### 🚀 Current Projects · Aktuelle Projekte
 
-<table align="center">
+<table align="center" style="border-collapse: separate; border-spacing: 15px 15px;">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>🚀 Tenant-Admin Dashboard (TAD)</h4>
-      PowerShell + WPF desktop app for live tenant metrics via Microsoft Graph.<br/>
-      <sub>Interactive tabs, CSV export, secure app-reg auth.</sub>
+      <p><b>PowerShell + WPF</b> desktop app for live tenant metrics via <b>Microsoft Graph</b>.</p>
+      <p style="font-size: 0.9em; color: #666;">Interactive tabs, CSV export, secure app-reg auth.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>⚡ PowerShell Skripthub</h4>
-      .NET 8 + WPF cockpit to manage & run curated PowerShell script sets.<br/>
-      <sub>MVVM, SQLite, SMA integration.</sub>
+      <p><b>.NET 8 + WPF</b> cockpit to manage & run curated <b>PowerShell</b> script sets.</p>
+      <p style="font-size: 0.9em; color: #666;">MVVM, SQLite, SMA integration.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>🤖 DockerMaster NX (Gemini Gem)</h4>
-      Custom AI agent that optimizes Docker stacks for Synology DSM.<br/>
-      <sub>Config + knowledge + troubleshooting hub.</sub>
+      <p>Custom <b>AI agent</b> that optimizes Docker stacks for <b>Synology DSM</b>.</p>
+      <p style="font-size: 0.9em; color: #666;">Config + knowledge + troubleshooting hub.</p>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>💰 WG-Finance-App Pro</h4>
-      Full-stack React/Node app for shared finances: expenses, shopping lists.<br/>
-      <sub>JWT security, Material UI, SQLite.</sub>
+      <p>Full-stack <b>React/Node</b> app for shared finances: expenses, shopping lists.</p>
+      <p style="font-size: 0.9em; color: #666;">JWT security, Material UI, SQLite.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>⚛️ Modern React Starter</h4>
-      React 18 + Vite + Tailwind + Redux Toolkit + Framer Motion.<br/>
-      <sub>Reusable foundation for future SaaS UIs.</sub>
+      <p><b>React 18 + Vite + Tailwind + Redux Toolkit + Framer Motion</b>.</p>
+      <p style="font-size: 0.9em; color: #666;">Reusable foundation for future SaaS UIs.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>🌐 Next.js Portfolio</h4>
-      Personal site with Next.js 15, React 19, TS & Tailwind.<br/>
-      <sub>Server Components & Actions.</sub>
+      <p>Personal site with <b>Next.js 15, React 19, TS & Tailwind</b>.</p>
+      <p style="font-size: 0.9em; color: #666;">Server Components & Actions.</p>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>📱 Flutter VibeCoding App</h4>
-      Cross-platform mobile experiments with theming & routing.<br/>
-      <sub>Learning project, quick prototypes.</sub>
+      <p>Cross-platform mobile experiments with theming & routing.</p>
+      <p style="font-size: 0.9em; color: #666;">Learning project, quick prototypes.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>🧱 Tenant Scripts & Admin Ops</h4>
-      Reusable PowerShell modules & Graph helpers for Microsoft 365.<br/>
-      <sub>Packaging + CI, coming public.</sub>
+      <p>Reusable <b>PowerShell</b> modules & <b>Graph</b> helpers for Microsoft 365.</p>
+      <p style="font-size: 0.9em; color: #666;">Packaging + CI, coming public.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>🧪 Misc VibeCoding</h4>
-      Small agents, scripts & experiments across AI APIs & tooling.<br/>
-      <sub>Playground, quick wins only.</sub>
+      <p>Small agents, scripts & experiments across <b>AI APIs</b> & tooling.</p>
+      <p style="font-size: 0.9em; color: #666;">Playground, quick wins only.</p>
     </td>
   </tr>
 </table>

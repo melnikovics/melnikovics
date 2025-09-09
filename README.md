@@ -27,6 +27,7 @@
 - **Rolle:** IT-Consultant · Power Platform Dev
 - **Fokus:** Prozess-Automatisierung, Governance, Self-Hosted KI
 - **Ziel:** Smarte Lösungen → finanzielle Unabhängigkeit
+- **Standards:** [Repo-Guidelines](https://github.com/melnikovics/repo-guidelines)
 </details>
 
 <details>

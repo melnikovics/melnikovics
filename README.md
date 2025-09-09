@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/professional_header.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
+  <img src="assets/stunning_header.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
 </p>
 
 <p align="center">
@@ -16,10 +16,7 @@
 
 ### 👋 About Me · Über mich
 
-- ⚡ <b>EN:</b> I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b>Docker</b>, often self-hosted on Synology.
-- ⚡ <b>DE:</b> Ich baue praxistaugliche Automationen mit <b>Power Platform</b>, <b>PowerShell</b> & <b>Docker</b>, meist <b>self-hosted</b> auf Synology.
-- 🤖 <b>AI:</b> Daily driver with <b>GPT / Gemini / Claude / Llama</b> for agents, data flows and DevOps helpers.
-- 🧪 <b>VibeCoding:</b> React / Flutter / Next.js only when it accelerates delivery (playground).
+I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b>Docker</b>, often self-hosted on Synology. I leverage <b>AI tools</b> like GPT, Gemini, Claude, and Llama for agents, data flows, and DevOps helpers. I explore modern UI frameworks like React, Flutter, and Next.js only when they accelerate delivery.
 
 ---
 
@@ -32,6 +29,8 @@
   <img src="https://img.shields.io/badge/Synology%20NAS-000000?logo=synology&logoColor=white&style=for-the-badge" alt="Synology NAS"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white&style=for-the-badge" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Llama-333333?logo=meta&logoColor=white&style=for-the-badge" alt="Llama"/>
 </p>
 
 <p align="center"><sub><i>Continuously learning and applying these technologies in practical projects.</i></sub></p>

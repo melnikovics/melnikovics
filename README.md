@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/clean_header.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
+  <img src="assets/premium_header.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ### 👋 About Me · Über mich
 
-I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b>Docker</b>, often self-hosted on Synology. I leverage <b>AI tools</b> like GPT, Gemini, Claude, and Llama for agents, data flows, and DevOps helpers. I explore modern UI frameworks like React, Flutter, and Next.js only when they accelerate delivery.
+I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b>Docker</b>, often self-hosted on Synology. I leverage <b>AI tools</b> like GPT, Gemini, Claude, and Llama for agents, data flows, and DevOps helpers. I explore modern UI frameworks only when they accelerate delivery.
 
 ---
 
-### 🛠️ Technologies I Work With · Technologien mit denen ich arbeite
+### 🛠️ Core Technologies · Kernkompetenzen
 
 <p align="center">
   <!-- First row -->
@@ -45,12 +45,6 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
   <img src="https://img.shields.io/badge/Llama-333333?logo=meta&logoColor=white&style=for-the-badge" alt="Llama"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Mistral-EF6B00?logo=mistral&logoColor=white&style=for-the-badge" alt="Mistral"/>
-</p>
-<p align="center">
-  <!-- Fifth row - Development Tools -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"/>
 </p>
 
 <p align="center"><sub><i>Continuously learning and applying these technologies in practical projects.</i></sub></p>
@@ -80,17 +74,17 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
   <tr>
     <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>💰 WG-Finance-App Pro</h4>
-      <p>Full-stack <b>React/Node</b> app for shared finances: expenses, shopping lists.</p>
+      <p>Full-stack app for shared finances: expenses, shopping lists.</p>
       <p style="font-size: 0.9em; color: #666;">JWT security, Material UI, SQLite.</p>
     </td>
     <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>⚛️ Modern React Starter</h4>
-      <p><b>React 18 + Vite + Tailwind + Redux Toolkit + Framer Motion</b>.</p>
+      <p>React 18 + Vite + Tailwind + Redux Toolkit + Framer Motion.</p>
       <p style="font-size: 0.9em; color: #666;">Reusable foundation for future SaaS UIs.</p>
     </td>
     <td width="33%" valign="top" style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h4>🌐 Next.js Portfolio</h4>
-      <p>Personal site with <b>Next.js 15, React 19, TS & Tailwind</b>.</p>
+      <p>Personal site with Next.js 15, React 19, TS & Tailwind.</p>
       <p style="font-size: 0.9em; color: #666;">Server Components & Actions.</p>
     </td>
   </tr>

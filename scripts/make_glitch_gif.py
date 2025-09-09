@@ -56,7 +56,8 @@ def make_glitch_gif(filename):
         d.text((W//2 - sw//2, H//2 + 20), subtitle, fill=TEXT_COLOR, font=f_small)
 
         frames.append(np.array(im))
-    imageio.mimsave(os.path.join(OUT_DIR, filename), frames, duration=0.1, loop=0)
+    # Slow down the animation by increasing the duration between frames
+    imageio.mimsave(os.path.join(OUT_DIR, filename), frames, duration=0.2, loop=0)
 
 make_glitch_gif("control_room_glitch.gif")
 print("Glitch GIF created in", OUT_DIR)

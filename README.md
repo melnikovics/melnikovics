@@ -119,33 +119,23 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 🎴 Digital Business Card
+### 🎮 RETRO GAME CONSOLE
 
 <p align="center">
-  <sub><i>Scan the metaphorical QR code below to unlock next-level collaboration opportunities:</i></sub>
+  <sub><i>INSERT COIN TO CONTINUE...</i></sub>
 </p>
 
 <p align="center">
-  <pre>
-  ┌─────────────────────────────────────────────┐
-  │  <b>Janis Melnikovics</b>                       │
-  │  Power Platform Builder & Automation Eng.   │
-  │                                             │
-  │  📧 Email: <a href="mailto:contact@yourdomain.com">contact@yourdomain.com</a>        │
-  │  💼 LinkedIn: in/janismelnikovics          │
-  │  🐙 GitHub: melnikovics                    │
-  │                                             │
-  │  🔧 Specialties:                           │
-  │  • Power Platform Automation               │
-  │  • PowerShell & Docker Orchestration       │
-  │  • AI-Enhanced Workflows                   │
-  │  • Self-Hosted Solutions (Synology)        │
-  │                                             │
-  │  🚀 "Building tomorrow's solutions today"  │
-  └─────────────────────────────────────────────┘
-  </pre>
+  <img src="https://img.shields.io/badge/-%F0%9F%8E%AE%20START%20MISSION-4CAF50?style=for-the-badge&logo=playstation&logoColor=white" alt="START MISSION">
 </p>
 
 <p align="center">
-  <sub><i>Want to discuss a project or just say hi? <a href="https://www.linkedin.com/in/janismelnikovics">Let's connect!</a> 🚀</i></sub>
+  <img src="https://img.shields.io/badge/PLAYER%20READY-1-FF5722?style=flat-square" alt="Player 1">
+  <img src="https://img.shields.io/badge/LEVEL-POWER%20PLATFORM-742774?style=flat-square" alt="Power Platform Level">
+  <img src="https://img.shields.io/badge/LEVEL-AUTOMATION-2E64FE?style=flat-square" alt="Automation Level">
+  <img src="https://img.shields.io/badge/LEVEL-AI%20INTEGRATION-4285F4?style=flat-square" alt="AI Integration Level">
+</p>
+
+<p align="center">
+  <sub><i>GAME STATUS: <b>MISSION ACCOMPLISHED!</b> Thanks for playing! Want to start a new game? <a href="https://www.linkedin.com/in/janismelnikovics">CONNECT NOW!</a></i></sub>
 </p>

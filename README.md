@@ -109,3 +109,12 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+---
+
+### 😄 Final Thought · Abschließender Gedanke
+
+<p align="center">
+  <sub><i>If you've read this far, you must be very bored or very interested. Either way, I appreciate it! 🚀</i></sub><br><br>
+  <sub><i>P.S. No actual Borat was harmed in the making of this README. Very nice!</i></sub>
+</p>

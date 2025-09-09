@@ -119,13 +119,13 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 🎬 Very Nice!
+### 🎬 Great Success!
 
 <p align="center">
-  <img src="assets/proper_borat.gif" width="300" alt="Borat Style Animation">
+  <img src="assets/borat_face.gif" width="300" alt="Borat Style Animation">
 </p>
 
 <p align="center">
-  <sub><i>"Great success! You have been very nice to read all this. I promise this README is not fake news!"</i></sub><br><br>
-  <sub><i>You've reached the end! Hope you enjoyed it. No actual Kazakhstani journalists were harmed in the making of this profile.</i></sub>
+  <sub><i>"You have been very nice to read all this! I promise this README is not fake news!"</i></sub><br><br>
+  <sub><i>Thanks for stopping by! Hope you found something interesting. 🚀</i></sub>
 </p>

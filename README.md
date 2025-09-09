@@ -119,12 +119,33 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 🚀 Ready for Liftoff?
+### 🎴 Digital Business Card
 
 <p align="center">
-  <sub><i>Thanks for exploring my digital workspace! If you found something interesting, why not connect?</i></sub>
+  <sub><i>Scan the metaphorical QR code below to unlock next-level collaboration opportunities:</i></sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Let's%20Build%20Something%20Amazing-4285F4?style=for-the-badge" alt="Let's Build Something Amazing">
+  <pre>
+  ┌─────────────────────────────────────────────┐
+  │  <b>Janis Melnikovics</b>                       │
+  │  Power Platform Builder & Automation Eng.   │
+  │                                             │
+  │  📧 Email: <a href="mailto:contact@yourdomain.com">contact@yourdomain.com</a>        │
+  │  💼 LinkedIn: in/janismelnikovics          │
+  │  🐙 GitHub: melnikovics                    │
+  │                                             │
+  │  🔧 Specialties:                           │
+  │  • Power Platform Automation               │
+  │  • PowerShell & Docker Orchestration       │
+  │  • AI-Enhanced Workflows                   │
+  │  • Self-Hosted Solutions (Synology)        │
+  │                                             │
+  │  🚀 "Building tomorrow's solutions today"  │
+  └─────────────────────────────────────────────┘
+  </pre>
+</p>
+
+<p align="center">
+  <sub><i>Want to discuss a project or just say hi? <a href="https://www.linkedin.com/in/janismelnikovics">Let's connect!</a> 🚀</i></sub>
 </p>

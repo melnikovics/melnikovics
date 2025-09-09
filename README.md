@@ -109,26 +109,17 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 📫 Get In Touch
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janismelnikovics">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melnikovics&show_icons=true&theme=blue-green" alt="GitHub Stats">
+  <a href="mailto:contact@yourdomain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melnikovics&layout=compact&theme=blue-green" alt="Top Languages">
-</p>
-
-<p align="center">
-  <sub><i>Want to collaborate or discuss tech? <a href="https://www.linkedin.com/in/janismelnikovics">Let's connect!</a> 🚀</i></sub>
+  <sub><i>Thanks for visiting! If you found my work interesting, I'd love to connect and discuss potential collaborations. 🚀</i></sub>
 </p>

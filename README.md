@@ -119,39 +119,16 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 🧬 TECH DNA HELIX
+### 📊 GitHub Stats
 
 <p align="center">
-  <sub><i>Your unique combination of skills and expertise:</i></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=melnikovics&show_icons=true&theme=blue-green" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <pre>
-    <b>Power Platform</b>     <b>Automation</b>     <b>AI Integration</b>     <b>Self-Hosting</b>
-         🟣                 🔵                 🟢                 ⚫
-         ||                 ||                 ||                 ||
-    P P P || A A A A A A || I I I I I I I || S S S S S S S S
-    o o w || u u t t t o || n n t t t e g || e e l l h h h t
-    w w e || t t o o o m || t t e e e r a || l l f f o o o i
-    e e r || o o m m m a || e e l l l t t || f f - - s s s n
-    r r P || m m a a a t || l l i i i i i || - - H H t t t g
-    P P l || a a t t t i || i i o o o o o || S S y y i i i  
-    l l a || t t i i i o || o o n n n n n || y y n n n n n
-    a a t || i i o o o n || n n   A A A A || n n   D D D D
-    t t f || o o n n n   ||   I I I I I I ||   D D D D D D
-    f f o || n n   I I I || I I I I I I I || D D D D D D D
-    o o r ||   I I I I I || I I I I I I I || D D D D D D D
-    r r m || I I I I I I || I I I I I I I || D D D D D D D
-         ||                 ||                 ||                 
-         ||                 ||                 ||                 
-  </pre>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melnikovics&layout=compact&theme=blue-green" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unique%20Skill%20Sequence-Discovered-4CAF50?style=for-the-badge" alt="Unique Skill Sequence">
-</p>
-
-<p align="center">
-  <sub><i>💡 <b>Genetic Code Analysis:</b> Rare combination of enterprise automation DNA with cutting-edge AI integration capabilities.</i></sub><br>
-  <sub><i>Want to explore what we can build together? <a href="https://www.linkedin.com/in/janismelnikovics">Let's connect!</a> 🚀</i></sub>
+  <sub><i>Want to collaborate or discuss tech? <a href="https://www.linkedin.com/in/janismelnikovics">Let's connect!</a> 🚀</i></sub>
 </p>

@@ -12,14 +12,6 @@
   <img src="https://img.shields.io/badge/Focus-Power%20Platform%20%7C%20PowerShell%20%7C%20Docker%20%7C%20AI-6A5ACD?style=flat-square" alt="Focus">
 </p>
 
-<!-- FUN STRIP (local, reliable) -->
-<!-- TODO: Replace with actual Borat GIFs -->
-<p align="center">
-  <img src="assets/fun/borat_very_nice.gif" width="260" alt="Very nice!">
-  <img src="assets/fun/borat_great_success.gif" width="260" alt="Great success!">
-  <img src="assets/fun/borat_high_five.gif" width="260" alt="High five!">
-</p>
-
 ---
 
 ### 👋 About Me · Über mich
@@ -138,9 +130,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<!-- TODO:
-If you want real Borat footage later:
-- Replace any assets/fun/*.gif with your licensed GIFs (same filenames)
-- Make sure to use short, loopable clips that are appropriate for a professional profile
--->

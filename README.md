@@ -119,13 +119,12 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 🎬 Great Success!
+### 🚀 Ready for Liftoff?
 
 <p align="center">
-  <img src="assets/borat_face.gif" width="300" alt="Borat Style Animation">
+  <sub><i>Thanks for exploring my digital workspace! If you found something interesting, why not connect?</i></sub>
 </p>
 
 <p align="center">
-  <sub><i>"You have been very nice to read all this! I promise this README is not fake news!"</i></sub><br><br>
-  <sub><i>Thanks for stopping by! Hope you found something interesting. 🚀</i></sub>
+  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Let's%20Build%20Something%20Amazing-4285F4?style=for-the-badge" alt="Let's Build Something Amazing">
 </p>

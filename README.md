@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/premium_header.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
+  <img src="assets/premium_header_fixed.gif" width="700" alt="Janis Melnikovics – Power Platform Builder & Automation Engineer">
 </p>
 
 <p align="center">
@@ -119,9 +119,13 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 
 ---
 
-### 😄 Final Thought · Abschließender Gedanke
+### 🎬 Very Nice! · Sehr Schön!
 
 <p align="center">
-  <sub><i>You have been very nice to read all this! I appreciate your time and attention. 🚀</i></sub><br><br>
-  <sub><i>P.S. This README was 100% human-written with the help of AI tools. No actual Borat was harmed in the making, but he would probably say: "Great success! Very nice code you have here!"</i></sub>
+  <img src="assets/borat_ascii.gif" width="400" alt="Borat Style ASCII Art">
+</p>
+
+<p align="center">
+  <sub><i>"Great success! You have been very nice to read all this. I promise this README is not fake news!"</i></sub><br><br>
+  <sub><i>Disclaimer: No actual Kazakhstani journalists were harmed in the making of this profile. Very nice code indeed!</i></sub>
 </p>

@@ -31,13 +31,26 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 <p align="center">
   <!-- Second row -->
   <img src="https://img.shields.io/badge/Synology%20NAS-000000?logo=synology&logoColor=white&style=for-the-badge" alt="Synology NAS"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white&style=for-the-badge" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?logo=microsoft&logoColor=white&style=for-the-badge" alt="Microsoft Graph"/>
+  <img src="https://img.shields.io/badge/Windows%20Automation-0078D4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows Automation"/>
 </p>
 <p align="center">
-  <!-- Third row -->
+  <!-- Third row - AI Tools -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white&style=for-the-badge" alt="Anthropic"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Gemini"/>
+</p>
+<p align="center">
+  <!-- Fourth row - More AI Tools -->
   <img src="https://img.shields.io/badge/Llama-333333?logo=meta&logoColor=white&style=for-the-badge" alt="Llama"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Mistral-EF6B00?logo=mistral&logoColor=white&style=for-the-badge" alt="Mistral"/>
+</p>
+<p align="center">
+  <!-- Fifth row - Development Tools -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"/>
 </p>
 
 <p align="center"><sub><i>Continuously learning and applying these technologies in practical projects.</i></sub></p>
@@ -115,6 +128,6 @@ I build real-world automation with <b>Power Platform</b>, <b>PowerShell</b> & <b
 ### 😄 Final Thought · Abschließender Gedanke
 
 <p align="center">
-  <sub><i>If you've read this far, you must be very bored or very interested. Either way, I appreciate it! 🚀</i></sub><br><br>
-  <sub><i>P.S. No actual Borat was harmed in the making of this README. Very nice!</i></sub>
+  <sub><i>You have been very nice to read all this! I appreciate your time and attention. 🚀</i></sub><br><br>
+  <sub><i>P.S. This README was 100% human-written with the help of AI tools. No actual Borat was harmed in the making, but he would probably say: "Great success! Very nice code you have here!"</i></sub>
 </p>
